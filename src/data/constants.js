@@ -185,6 +185,11 @@ export const skills = [
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
       {
+        name: "Heroku",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWqaWn8VSjbzw9-Trp5ACpRQeWqqNULzVn0LBezUBtA&s",
+      },
+      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",

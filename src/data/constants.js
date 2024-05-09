@@ -160,6 +160,11 @@ export const skills = [
     title: "Others",
     skills: [
       {
+        name: "Django",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wtYjdojb3bkMPBeLgf4jLTHlmWs_9V91mOxtt0nyBQ&s",
+      },
+      {
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",

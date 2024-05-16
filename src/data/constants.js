@@ -10,7 +10,8 @@ export const Bio = {
   description:
     "Driven and disciplined, I possess a strong passion for technology and innovation. With expertise in Frontend Development, Python Development, Machine Learning, Deep Learning, and Flutter Development, I am committed to delivering excellence and eager to contribute to the success of any team or organization.",
   github: "https://github.com/abhijeetSaroha",
-  resume: "",
+  resume:
+    "https://drive.google.com/file/d/1bDbU21YdfEgIM2KJdJGv0ET1z0-lMW0P/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhijeet-saroha-a19031229/",
   twitter: "https://twitter.com/abhijeet_s54379",
 };
